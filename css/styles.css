@@ -116,8 +116,8 @@ h1 .note, h2 .note, h3 .note, h4 .note, h5 .note, h6 .note { margin-left: 8px; f
 h1 .note a, h2 .note a, h3 .note a, h4 .note a, h5 .note a, h6 .note a { color: #b8b8b8; }
 
 /* 1.5 - Links and Buttons */
-a { color:#b8b8b8; text-decoration: none; outline: none;}
-a:hover { color:#b8b8b8; opacity: 0.7;}
+a { color:#819E94; text-decoration: none; outline: none;}
+a:hover { color:#819E94; opacity: 0.7;}
 a:active { outline: none; }
 
 a.btn, input.btn { -webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none; display:inline-block; height:36px; line-height:36px; border:none; margin:0; padding:0 20px; color:#fff;  font-weight:700; font-size:12px; text-transform:none;background:#c2c2c2; width:auto; }
